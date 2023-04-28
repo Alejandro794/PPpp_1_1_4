@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1efc6adc-668a-4447-bf18-8a89a3928922" name="Changes" comment="">
+    <list default="true" id="1efc6adc-668a-4447-bf18-8a89a3928922" name="Changes" comment="ver_0.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/dao/UserDaoJDBCImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/dao/UserDaoJDBCImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java" afterDir="false" />
     </list>
@@ -95,8 +94,16 @@
       <workItem from="1682494245045" duration="8282000" />
       <workItem from="1682575444845" duration="21834000" />
       <workItem from="1682662916408" duration="3803000" />
-      <workItem from="1682687422695" duration="2057000" />
+      <workItem from="1682687422695" duration="3354000" />
     </task>
+    <task id="LOCAL-00001" summary="ver_0.2">
+      <created>1682689569577</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682689569577</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,5 +119,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ver_0.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver_0.2" />
   </component>
 </project>
